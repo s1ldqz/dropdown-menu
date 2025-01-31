@@ -76,4 +76,10 @@ body {
   padding: 10px 5px;
   margin-top: 20px;
   display: block;
+  background-color: transparent;
+  transition: all 0.7s;
+  cursor: pointer;
+}
+.test1:hover {
+  background-color: #777;
 }
