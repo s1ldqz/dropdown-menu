@@ -65,3 +65,15 @@ body {
 .login-form > input {
   margin-bottom: 0.5rem;
 }
+.test1 {
+  color: black;
+  font-size: 18px;
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+  width: 200px;
+  height: 26px;
+  padding: 10px 5px;
+  margin-top: 20px;
+  display: block;
+}
