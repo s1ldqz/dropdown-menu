@@ -69,12 +69,11 @@ body {
   color: black;
   font-size: 18px;
   border: 1px solid black;
-  margin: 0 auto;
+  margin: 150px auto 0;
   text-align: center;
   width: 200px;
   height: 26px;
   padding: 10px 5px;
-  margin-top: 20px;
   display: block;
   background-color: transparent;
   transition: all 0.7s;
