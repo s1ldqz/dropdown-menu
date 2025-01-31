@@ -72,12 +72,16 @@ body {
   margin: 150px auto 0;
   text-align: center;
   width: 200px;
-  height: 26px;
   padding: 10px 5px;
   display: block;
   background-color: transparent;
   transition: all 0.7s;
   cursor: pointer;
+}
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
 .test1:hover {
   background-color: #777;
